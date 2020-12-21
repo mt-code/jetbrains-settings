@@ -6,7 +6,12 @@
           <option name="url" value="http://resolution.codebasehq.com" />
           <option name="userName" value="matt@mtcode.co.uk" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/e-o-f/equipment-rental.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/docker" />
   </component>
 </application>
