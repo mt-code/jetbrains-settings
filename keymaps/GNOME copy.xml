@@ -111,6 +111,10 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="FindUsagesInFile" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
