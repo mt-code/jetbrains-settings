@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="big" type="AUTO_DETECTED" />
       <mapping pattern="Dockerifle" type="AUTO_DETECTED" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
