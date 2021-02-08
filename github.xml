@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="5a9d95eb-9e17-485c-956c-a7a22fe73e0b" name="mt-code">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
