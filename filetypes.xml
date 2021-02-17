@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="big" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerifle" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping ext="d" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
