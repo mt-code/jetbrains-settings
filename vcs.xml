@@ -18,9 +18,13 @@
           <option name="url" value="https://github.com/mt-code/poundarts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JoanOfArc/clarity-on-credit-theme.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/docker" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
